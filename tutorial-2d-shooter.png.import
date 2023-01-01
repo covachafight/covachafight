@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tutorial-2d-shooter.png-796c102debdf0553ed3f54b1c0699b8e.stex"
+path="res://.import/tutorial-2d-shooter.png-3dedee179a5576499a97c91d4401bc42.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/html5/test/tutorial-2d-shooter.png"
-dest_files=[ "res://.import/tutorial-2d-shooter.png-796c102debdf0553ed3f54b1c0699b8e.stex" ]
+source_file="res://export/html5/html/tutorial-2d-shooter.png"
+dest_files=[ "res://.import/tutorial-2d-shooter.png-3dedee179a5576499a97c91d4401bc42.stex" ]
 
 [params]
 
